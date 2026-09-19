@@ -1,4 +1,4 @@
-package io.github.first_non_interesting_username.unnamedalarmapp.ui.theme
+package io.github.first_uninteresting_username.unnamedalarmapp.ui.theme
 
 import android.app.Activity
 import android.os.Build

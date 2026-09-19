@@ -1,4 +1,4 @@
-package io.github.first_non_interesting_username.unnamedalarmapp
+package io.github.first_uninteresting_username.unnamedalarmapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import io.github.first_non_interesting_username.unnamedalarmapp.ui.theme.UnnamedAlarmAppTheme
+import io.github.first_uninteresting_username.unnamedalarmapp.ui.theme.UnnamedAlarmAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

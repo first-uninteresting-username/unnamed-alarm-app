@@ -1,4 +1,4 @@
-package io.github.first_non_interesting_username.unnamedalarmapp
+package io.github.first_uninteresting_username.unnamedalarmapp
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package io.github.first_non_interesting_username.unnamedalarmapp
+package io.github.first_uninteresting_username.unnamedalarmapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -20,7 +20,7 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals(
-            "io.github.first_non_interesting_username.unnamedalarmapp",
+            "io.github.first_uninteresting_username.unnamedalarmapp",
             appContext.packageName
         )
     }
